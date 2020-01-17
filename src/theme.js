@@ -3,10 +3,14 @@ export default{
         white: '#FFFFFF',
         black: '#000000',
         light: '#F0F4F4',
-        primary: '#87adb3',
-        info: '#365350',
-        success: '#5eae6e',
-        warning: '#db9e36',
+        primary: '#9ea2a5',
+        info: '#322c33',
+        success: '#65ab6a',
+        warning: '#e29b32',
         danger: '#f44336',
+    },
+    fontfamily:{
+        body: '"Roboto", "Helvetica", "Arial", sans-serif',
+        heading: '"Roboto Slab", "Times New Roman", serif',
     }
 }
